@@ -10,7 +10,7 @@
 
 ## Motivation
 
-Citizen science platforms like iNaturalist generate millions of informal observation notes every year. These notes contain rich ecological information — what species were seen, what they were doing, where they were — but this information is locked in unstructured text. This project builds an end-to-end NLP pipeline to automatically extract that information into a structured, queryable database.
+Citizen science platforms like iNaturalist generate millions of informal observation notes every year. These notes contain rich ecological information, what species were seen, what they were doing, where they were, but this information is locked in unstructured text. This project builds an end-to-end NLP pipeline to automatically extract that information into a structured, queryable database.
 
 The methodology directly mirrors real-world biological data curation workflows used in biodiversity informatics research.
 
