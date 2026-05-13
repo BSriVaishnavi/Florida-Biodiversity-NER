@@ -1,0 +1,193 @@
+{
+  "total_entities": 100950,
+  "species_count": 57299,
+  "behavior_count": 31665,
+  "habitat_count": 11986,
+  "total_triplets": 57299,
+  "top_species": [
+    [
+      "eastern gray squirrel",
+      8371
+    ],
+    [
+      "sciurus carolinensis",
+      8338
+    ],
+    [
+      "procyon lotor",
+      2925
+    ],
+    [
+      "common raccoon",
+      2812
+    ],
+    [
+      "white-tailed deer",
+      2741
+    ],
+    [
+      "odocoileus virginianus",
+      2733
+    ],
+    [
+      "marsh rabbit",
+      2293
+    ],
+    [
+      "sylvilagus palustris",
+      2280
+    ],
+    [
+      "mexican long-nosed armadillo",
+      1551
+    ],
+    [
+      "sylvilagus floridanus",
+      1429
+    ],
+    [
+      "eastern cottontail",
+      1425
+    ],
+    [
+      "florida manatee",
+      1284
+    ],
+    [
+      "trichechus manatus latirostris",
+      1279
+    ],
+    [
+      "west indian manatee",
+      1166
+    ],
+    [
+      "trichechus manatus",
+      1166
+    ]
+  ],
+  "top_behaviors": [
+    [
+      "observed",
+      30125
+    ],
+    [
+      "found",
+      398
+    ],
+    [
+      "seen",
+      177
+    ],
+    [
+      "eating",
+      120
+    ],
+    [
+      "flying",
+      117
+    ],
+    [
+      "spotted",
+      77
+    ],
+    [
+      "walking",
+      70
+    ],
+    [
+      "crossing",
+      70
+    ],
+    [
+      "running",
+      69
+    ],
+    [
+      "foraging",
+      55
+    ],
+    [
+      "swimming",
+      47
+    ],
+    [
+      "climbing",
+      40
+    ],
+    [
+      "feeding",
+      36
+    ],
+    [
+      "playing",
+      26
+    ],
+    [
+      "photographed",
+      24
+    ]
+  ],
+  "top_habitats": [
+    [
+      "park",
+      3608
+    ],
+    [
+      "beach",
+      1826
+    ],
+    [
+      "lake",
+      1428
+    ],
+    [
+      "bay",
+      591
+    ],
+    [
+      "trail",
+      568
+    ],
+    [
+      "everglades",
+      484
+    ],
+    [
+      "river",
+      418
+    ],
+    [
+      "paynes prairie",
+      367
+    ],
+    [
+      "road",
+      284
+    ],
+    [
+      "creek",
+      248
+    ],
+    [
+      "gulf",
+      168
+    ],
+    [
+      "forest",
+      158
+    ],
+    [
+      "hammock",
+      142
+    ],
+    [
+      "big cypress",
+      141
+    ],
+    [
+      "ocean",
+      124
+    ]
+  ]
+}
