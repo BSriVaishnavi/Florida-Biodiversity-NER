@@ -56,30 +56,7 @@ biodiversity-ner/
 
 ---
 
-## Quick Start
-
-```bash
-# 1. Clone repo
-git clone https://github.com/BSriVaishnavi/Florida-Biodiversity-NER.git
-cd biodiversity-ner
-
-# 2. Create conda environment
-conda create -n biodiversity python=3.12 -y
-conda activate biodiversity
-
-# 3. Install dependencies
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install -r requirements.txt
-
-# 4. Add data
-# Place iNaturalist export at: data/raw/observations.csv
-
-# 5. Open notebook
-jupyter notebook Florida_Biodiversity_NER_final.ipynb
-
-# 6. Launch query interface
-streamlit run app/app.py
-```
+https://florida-biodiversity-ner-bsrivaishnavi.streamlit.app/
 
 ---
 
