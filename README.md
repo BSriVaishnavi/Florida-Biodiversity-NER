@@ -60,7 +60,7 @@ biodiversity-ner/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/BSriVaishnavi/biodiversity-ner.git
+git clone https://github.com/BSriVaishnavi/Florida-Biodiversity-NER.git
 cd biodiversity-ner
 
 # 2. Create conda environment
